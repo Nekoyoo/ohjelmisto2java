@@ -1,5 +1,5 @@
 'use strict';
 
-const nimi = prompt("Kirjoita nimesi");
+const name = prompt('Enter name:');
 
-document.querySelector('#target').innerHTML = `Hello, ${nimi}!!`;
+document.querySelector('#target').innerText = `Hello ${name}`;

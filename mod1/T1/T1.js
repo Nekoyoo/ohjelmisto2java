@@ -1,5 +1,2 @@
 'use strict';
-
-const nimi = 'mika';
-
-console.log(nimi);
+console.log("I'm printing to console!");
