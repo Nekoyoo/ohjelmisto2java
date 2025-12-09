@@ -45,4 +45,4 @@ form.addEventListener('submit', async (e) => {
 
     results.append(article);
   }
-});
+})
